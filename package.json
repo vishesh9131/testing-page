@@ -15,7 +15,7 @@
     "react-dom": "^17.0.2",
     "react-plotly.js": "^2.6.0",
     "react-router-dom": "^6.24.1",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -44,5 +44,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://<username>.github.io/<repository-name>"
+  "homepage": "https://vishesh-kv.github.io/testing-page",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
